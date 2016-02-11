@@ -1,0 +1,12 @@
+G:\University\4_curs\PAD\PAD(labs)\PAD_01v3\Platform\bin\Debug\Platform.exe.config
+G:\University\4_curs\PAD\PAD(labs)\PAD_01v3\Platform\bin\Debug\Platform.exe
+G:\University\4_curs\PAD\PAD(labs)\PAD_01v3\Platform\bin\Debug\Platform.pdb
+G:\University\4_curs\PAD\PAD(labs)\PAD_01v3\Platform\obj\Debug\Platform.exe
+G:\University\4_curs\PAD\PAD(labs)\PAD_01v3\Platform\obj\Debug\Platform.pdb
+G:\University\4_curs\PAD\PAD(labs)\PAD_01v3\Platform\obj\Debug\Platform.csprojResolveAssemblyReference.cache
+G:\University\4_curs\PAD\PAD(labs)\PAD_01v5\Platform\bin\Debug\Platform.exe.config
+G:\University\4_curs\PAD\PAD(labs)\PAD_01v5\Platform\bin\Debug\Platform.exe
+G:\University\4_curs\PAD\PAD(labs)\PAD_01v5\Platform\bin\Debug\Platform.pdb
+G:\University\4_curs\PAD\PAD(labs)\PAD_01v5\Platform\obj\Debug\Platform.csprojResolveAssemblyReference.cache
+G:\University\4_curs\PAD\PAD(labs)\PAD_01v5\Platform\obj\Debug\Platform.exe
+G:\University\4_curs\PAD\PAD(labs)\PAD_01v5\Platform\obj\Debug\Platform.pdb

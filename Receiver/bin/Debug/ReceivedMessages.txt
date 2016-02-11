@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<MessageChain xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <messages>
+    <Message>
+      <port>30002</port>
+      <message>test2</message>
+    </Message>
+    <Message>
+      <port>30002</port>
+      <message>test2</message>
+    </Message>
+    <Message>
+      <port>30002</port>
+      <message>test2</message>
+    </Message>
+  </messages>
+</MessageChain>01</port>
+      <message>test1</message>
+    </Message>
+    <Message>
+      <port>30001</port>
+      <message>test1</message>
+    </Message>
+  </messages>
+</MessageChain>
